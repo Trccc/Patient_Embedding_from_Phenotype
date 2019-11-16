@@ -2,6 +2,7 @@
 
 
 ## Task
+
 Chirong Zhang
 - 
 
@@ -20,14 +21,15 @@ Xiaoxi Zhao:
 ## Reference
 ### Paper:
 
-Learning probabilistic phenotypes: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.sciencedirect.com/science/article/pii/S1532046415002233)
+Learning probabilistic phenotypes: [Learning probabilistic phenotypes from heterogeneous EHR data](https://www.sciencedirect.com/science/article/pii/S1532046415002233)
 
-Dynamic Topic Models: [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://mimno.infosci.cornell.edu/info6150/readings/dynamic_topic_models.pdf)
+Dynamic Topic Models: [Dynamic Topic Models](https://mimno.infosci.cornell.edu/info6150/readings/dynamic_topic_models.pdf)
 
+DETM: [The Dynamic Embedded Topic Model](https://arxiv.org/abs/1907.05545)
 
 ### Github:
 
-styleGAN: [https://github.com/NVlabs/stylegan](https://github.com/NVlabs/stylegan)
+DETM: [DETM git]( https://github.com/adjidieng/DETM)
 
 
 
