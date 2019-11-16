@@ -4,12 +4,10 @@
 ## Task
 
 Chirong Zhang
-- 
 
 
+Xiaoxi Zhao
 
-Xiaoxi Zhao: 
--
 
 
 ## TODO
