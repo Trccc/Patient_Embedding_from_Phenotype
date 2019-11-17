@@ -21,10 +21,10 @@ Xiaoxi Zhao
 
 Learning probabilistic phenotypes: [Learning probabilistic phenotypes from heterogeneous EHR data](https://www.sciencedirect.com/science/article/pii/S1532046415002233)
 
-Diagnosis, Clinical notes, Medications, Labtest.\\
-Almost similar to LDA, mixed membership model.\\
-Inference, collapsed Gibbs.\\
-Model Selection, normalized pointwise mutual information(NPMI) and held-out likelihood.\\
+Diagnosis, Clinical notes, Medications, Labtest.  
+Almost similar to LDA, mixed membership model. 
+Inference, collapsed Gibbs.  
+Model Selection, normalized pointwise mutual information(NPMI) and held-out likelihood.  
 Evaluation todo.
 
 Dynamic Topic Models: [Dynamic Topic Models](https://mimno.infosci.cornell.edu/info6150/readings/dynamic_topic_models.pdf)
