@@ -9,7 +9,7 @@ Xiaoxi Zhao xz2740
 
 ## Final Report
 
-[Final Report](Final_Report.pdf.pdf)
+[Final Report](Final_Report.pdf)
 
 ## Acknowlegement
 The code for ETM model is mainly modified from [ETM](https://github.com/adjidieng/ETM)
