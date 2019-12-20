@@ -4,7 +4,7 @@ General Patient Embedding with learned phenotype
 
 ## Membership
 
-Chirong Zhang cz2533
+Chirong Zhang cz2533   
 Xiaoxi Zhao xz2740
 
 ## Final Report
